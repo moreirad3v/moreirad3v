@@ -10,51 +10,49 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
-<p align="left"> 
-Meu nome é Kauê Moreira e sou <strong>Programador Junior</strong> JavaScript, NodeJs e React.<br>
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abeatrizdev/)
+[![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
+[![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
+
+
+
+
+> Qual é o passo mais difícil, LP ? O próximo - Sant
+## ⚡ Languages, Libraries and Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![PHP](https://img.shields.io/badge/php-111?style=for-the-badge&logo=php&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquey](https://img.shields.io/badge/jQuery-111?style=for-the-badge&logo=jquery&logoColor=white)
+![vue](https://img.shields.io/badge/vue-111?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+
+## 🛠 Tools
+![notion](https://img.shields.io/badge/notion-111?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-111?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![discord](https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
+
+> 🦋 This action will have consequences - Life is Stranger
+## 🚀 Hobbies
+- 🎯 Study on productivity and organization
+- 🎮 Games 
+- 🎬 Watch series, movies and anime 
+- 🎵 I love brazilian rap
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biahdev&show_icons=true&theme=midnight-purple&bg_color=111&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biahdev&hide_border=true&theme=midnight-purple&background=111" />
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJS...</strong>
-</p>
+---
 
-<p align="left">
-  💼// Cursos (em andamento): <strong>Finanças (TC), JS e TS (Udemy), Alura</strong>
-</p>
-
-<p align="left">
-  💌 Minhas redes sociais para contato: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqVrVmpLCJJhxsQQnfBQrvCjmsSmLjLvbrqJCcwKnCGdVKczqLWXNxdwKkvJqWjtlLJGg" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/Luciano655#7898'"/></a>
-
-  <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link='https://twitter.com/Luciano655dev'"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link='https://www.instagram.com/lucianomenezes08/'"/></a>
-</p>
-
-# My Status
-<div>
-  <a href="https://github.com/Luciano655dev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luciano655dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano655dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<strong>-> nota: Este é um README curto para uma pequena apresentação aqui no github, o meu real portfolio está <a href="https://luciano655dev.netlify.app">***nesse site***</a></strong>
-
-
-<div> 
-  
-  <a href="https://www.instagram.com/kaue.moreira__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "developer.kaue@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
-</div>
-
+<p align="center"> Thanks for the visit!! If you liked this README, please give me a  ⭐️ </p>
+<p align="center"> Feel free to visit the repositories!!  ⬇️</p>
