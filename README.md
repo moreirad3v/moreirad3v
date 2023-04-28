@@ -40,12 +40,7 @@
 ![discord](https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
 
-> 🦋 This action will have consequences - Life is Stranger
-## 🚀 Hobbies
-- 🎯 Study on productivity and organization
-- 🎮 Games 
-- 🎬 Watch series, movies and anime 
-- 🎵 I love brazilian rap
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biahdev&show_icons=true&theme=midnight-purple&bg_color=111&hide_border=true" />
